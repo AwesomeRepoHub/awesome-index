@@ -3,12 +3,25 @@
 <h1>Awesome Index</h1>
 <p>Curated open-source lists by industry and topic — every entry is real, licensed and still maintained.</p>
 
-<p><img alt="collections" src="https://img.shields.io/badge/7-collections-0969da?style=flat-square"> <img alt="projects" src="https://img.shields.io/badge/117-projects-2da44e?style=flat-square"> <img alt="stars" src="https://img.shields.io/badge/5.9M-stars-8250df?style=flat-square"></p>
+<p><img alt="collections" src="https://img.shields.io/badge/7-collections-0969da?style=flat-square"> <img alt="projects" src="https://img.shields.io/badge/194-projects-2da44e?style=flat-square"> <img alt="stars" src="https://img.shields.io/badge/8.5M-stars-8250df?style=flat-square"></p>
 
 <p><a href="README.md">中文</a> &#183; <a href="CONTRIBUTING.md">Contributing</a></p>
 </div>
 
-> **7 collections, 117 projects, 5.9M stars.** Numbers come from the GitHub API; generated 2026-10-24.
+> **7 collections, 194 projects, 8.5M stars.** Numbers come from the GitHub API; generated 2026-10-24.
+
+## Not sure where to start
+
+| What you need | Go straight to |
+|:--|:--|
+| Move photos and files back home | [Immich](https://github.com/immich-app/immich) — automatic phone backup and face search; closest to a cloud photo app |
+| Let AI edit my repo | [Cline](https://github.com/cline/cline) — autonomous edits, terminal access and screenshots inside VS Code |
+| Ship an agent in a week | [CrewAI](https://github.com/crewAIInc/crewAI) — roles, tasks and flows — enough to model a real process |
+| Replace Notion databases | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) — tables, boards and calendars, local-first and self-hostable |
+| Replace Figma | [Penpot](https://github.com/penpot/penpot) — exports CSS and SVG so engineers stop re-measuring |
+| Automate my home | [Home Assistant](https://github.com/home-assistant/core) — local-first with the widest device support |
+| Open a store that takes payments | [WooCommerce](https://github.com/woocommerce/woocommerce) — largest theme and payment ecosystem |
+| Know when a server dies | [Uptime Kuma](https://github.com/louislam/uptime-kuma) — monitor sites and ports, alert straight to Telegram |
 
 ## Collections
 
@@ -20,7 +33,7 @@
 <td valign="top">
 <p><a href="https://github.com/AwesomeRepoHub/awesome-ai-agents"><b>Awesome AI Agents</b></a><br><code>awesome-ai-agents</code></p>
 <p>Agent frameworks and ready-to-use agents that still ship — grouped by what you are actually trying to do</p>
-<p>19 projects &#183; 1.5M stars &#183; <a href="https://github.com/AwesomeRepoHub/awesome-ai-agents/blob/main/README.md">Chinese</a> / <a href="https://github.com/AwesomeRepoHub/awesome-ai-agents/blob/main/README.en.md">English</a></p>
+<p>30 projects &#183; 2.3M stars &#183; <a href="https://github.com/AwesomeRepoHub/awesome-ai-agents/blob/main/README.md">Chinese</a> / <a href="https://github.com/AwesomeRepoHub/awesome-ai-agents/blob/main/README.en.md">English</a></p>
 <p>Start with: <a href="https://github.com/langchain-ai/langchain">LangChain</a> &#183; <a href="https://github.com/crewAIInc/crewAI">CrewAI</a> &#183; <a href="https://github.com/browser-use/browser-use">Browser Use</a></p>
 </td>
 </tr>
@@ -34,7 +47,7 @@
 <td valign="top">
 <p><a href="https://github.com/AwesomeRepoHub/awesome-self-hosted"><b>Awesome Self-Hosted</b></a><br><code>awesome-self-hosted</code></p>
 <p>Take your data back — photos, files, media, automation and deploy panels, with an honest note on how heavy each one is</p>
-<p>18 projects &#183; 1.4M stars &#183; <a href="https://github.com/AwesomeRepoHub/awesome-self-hosted/blob/main/README.md">Chinese</a> / <a href="https://github.com/AwesomeRepoHub/awesome-self-hosted/blob/main/README.en.md">English</a></p>
+<p>31 projects &#183; 2.1M stars &#183; <a href="https://github.com/AwesomeRepoHub/awesome-self-hosted/blob/main/README.md">Chinese</a> / <a href="https://github.com/AwesomeRepoHub/awesome-self-hosted/blob/main/README.en.md">English</a></p>
 <p>Start with: <a href="https://github.com/immich-app/immich">Immich</a> &#183; <a href="https://github.com/nextcloud/server">Nextcloud</a> &#183; <a href="https://github.com/coollabsio/coolify">Coolify</a></p>
 </td>
 </tr>
@@ -48,7 +61,7 @@
 <td valign="top">
 <p><a href="https://github.com/AwesomeRepoHub/awesome-ai-coding"><b>Awesome AI Coding</b></a><br><code>awesome-ai-coding</code></p>
 <p>AI tools that actually edit your codebase — terminal agents, IDE assistants, context tooling and specs</p>
-<p>16 projects &#183; 915k stars &#183; <a href="https://github.com/AwesomeRepoHub/awesome-ai-coding/blob/main/README.md">Chinese</a> / <a href="https://github.com/AwesomeRepoHub/awesome-ai-coding/blob/main/README.en.md">English</a></p>
+<p>26 projects &#183; 1.4M stars &#183; <a href="https://github.com/AwesomeRepoHub/awesome-ai-coding/blob/main/README.md">Chinese</a> / <a href="https://github.com/AwesomeRepoHub/awesome-ai-coding/blob/main/README.en.md">English</a></p>
 <p>Start with: <a href="https://github.com/cline/cline">Cline</a> &#183; <a href="https://github.com/All-Hands-AI/OpenHands">OpenHands</a> &#183; <a href="https://github.com/Aider-AI/aider">Aider</a></p>
 </td>
 </tr>
@@ -62,7 +75,7 @@
 <td valign="top">
 <p><a href="https://github.com/AwesomeRepoHub/awesome-productivity"><b>Awesome Productivity</b></a><br><code>awesome-productivity</code></p>
 <p>Notes, tasks, whiteboards and small utilities that survive daily use — not the flavor of the month</p>
-<p>16 projects &#183; 762k stars &#183; <a href="https://github.com/AwesomeRepoHub/awesome-productivity/blob/main/README.md">Chinese</a> / <a href="https://github.com/AwesomeRepoHub/awesome-productivity/blob/main/README.en.md">English</a></p>
+<p>25 projects &#183; 1.2M stars &#183; <a href="https://github.com/AwesomeRepoHub/awesome-productivity/blob/main/README.md">Chinese</a> / <a href="https://github.com/AwesomeRepoHub/awesome-productivity/blob/main/README.en.md">English</a></p>
 <p>Start with: <a href="https://github.com/AppFlowy-IO/AppFlowy">AppFlowy</a> &#183; <a href="https://github.com/logseq/logseq">Logseq</a> &#183; <a href="https://github.com/makeplane/plane">Plane</a></p>
 </td>
 </tr>
@@ -76,7 +89,7 @@
 <td valign="top">
 <p><a href="https://github.com/AwesomeRepoHub/awesome-design-tools"><b>Awesome Design Tools</b></a><br><code>awesome-design-tools</code></p>
 <p>From canvas to production CSS — open-source design tools, component libraries and design systems, ordered by workflow</p>
-<p>15 projects &#183; 576k stars &#183; <a href="https://github.com/AwesomeRepoHub/awesome-design-tools/blob/main/README.md">Chinese</a> / <a href="https://github.com/AwesomeRepoHub/awesome-design-tools/blob/main/README.en.md">English</a></p>
+<p>27 projects &#183; 709k stars &#183; <a href="https://github.com/AwesomeRepoHub/awesome-design-tools/blob/main/README.md">Chinese</a> / <a href="https://github.com/AwesomeRepoHub/awesome-design-tools/blob/main/README.en.md">English</a></p>
 <p>Start with: <a href="https://github.com/penpot/penpot">Penpot</a> &#183; <a href="https://github.com/mui/material-ui">Material UI</a> &#183; <a href="https://github.com/tailwindlabs/tailwindcss">Tailwind CSS</a></p>
 </td>
 </tr>
@@ -90,7 +103,7 @@
 <td valign="top">
 <p><a href="https://github.com/AwesomeRepoHub/awesome-iot"><b>Awesome IoT</b></a><br><code>awesome-iot</code></p>
 <p>Firmware to platform, dev boards to device UIs — embedded and IoT projects you can actually flash today</p>
-<p>17 projects &#183; 412k stars &#183; <a href="https://github.com/AwesomeRepoHub/awesome-iot/blob/main/README.md">Chinese</a> / <a href="https://github.com/AwesomeRepoHub/awesome-iot/blob/main/README.en.md">English</a></p>
+<p>28 projects &#183; 555k stars &#183; <a href="https://github.com/AwesomeRepoHub/awesome-iot/blob/main/README.md">Chinese</a> / <a href="https://github.com/AwesomeRepoHub/awesome-iot/blob/main/README.en.md">English</a></p>
 <p>Start with: <a href="https://github.com/home-assistant/core">Home Assistant</a> &#183; <a href="https://github.com/esphome/esphome">ESPHome</a> &#183; <a href="https://github.com/emqx/emqx">EMQX</a></p>
 </td>
 </tr>
@@ -104,7 +117,7 @@
 <td valign="top">
 <p><a href="https://github.com/AwesomeRepoHub/awesome-ecommerce"><b>Awesome E-commerce</b></a><br><code>awesome-ecommerce</code></p>
 <p>Everything needed to run your own store — commerce platforms, headless frontends, payments and back office</p>
-<p>16 projects &#183; 286k stars &#183; <a href="https://github.com/AwesomeRepoHub/awesome-ecommerce/blob/main/README.md">Chinese</a> / <a href="https://github.com/AwesomeRepoHub/awesome-ecommerce/blob/main/README.en.md">English</a></p>
+<p>28 projects &#183; 356k stars &#183; <a href="https://github.com/AwesomeRepoHub/awesome-ecommerce/blob/main/README.md">Chinese</a> / <a href="https://github.com/AwesomeRepoHub/awesome-ecommerce/blob/main/README.en.md">English</a></p>
 <p>Start with: <a href="https://github.com/medusajs/medusa">Medusa</a> &#183; <a href="https://github.com/woocommerce/woocommerce">WooCommerce</a> &#183; <a href="https://github.com/bagisto/bagisto">Bagisto</a></p>
 </td>
 </tr>
