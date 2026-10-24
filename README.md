@@ -5,7 +5,7 @@
 
 <p><img alt="collections" src="https://img.shields.io/badge/7-%E4%B8%AA%E5%90%88%E9%9B%86-0969da?style=flat-square"> <img alt="projects" src="https://img.shields.io/badge/194-%E4%B8%AA%E9%A1%B9%E7%9B%AE-2da44e?style=flat-square"> <img alt="stars" src="https://img.shields.io/badge/8.5M-Stars-8250df?style=flat-square"></p>
 
-<p><a href="README.en.md">English</a> &#183; <a href="https://github.com/AwesomeRepoHub/awesome-index/blob/main/CONTRIBUTING.md">参与贡献</a></p>
+<p><a href="README.en.md">English</a> &#183; <a href="CONTRIBUTING.md">参与贡献</a> &#183; <a href="REFERENCES.md">借鉴的清单</a></p>
 </div>
 
 > **7 个合集、194 个项目、共 8.5M Stars。** 数字来自 GitHub API，生成于 2026-10-24；每次生成刷新一次。
